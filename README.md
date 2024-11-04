@@ -3,7 +3,11 @@ Ventilator-Associated Pneumonia is one of the well-understood and most prevalent
 depending on the population of patients and intensive care units [1].VAP has been linked with longer duration of stay in the ICU, higher costs of care and higher mortality rates hence early identification and prevention of VAP is recommended [2].
 
 Team 36
+
 Mengyi Dai
+
 Jiaxuan Shi
+
 YuCheng Chien
+
 Sachi Sheshrao Barahate
